@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Moja Aplikacja</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="a">To</string>
+    <string name="b">Jest</string>
+    <string name="c">Moja</string>
+    <string name="d">Pierwsza</string>
+    <string name="e">Aplikacja</string>
+</resources>

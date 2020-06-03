@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="moj_tekst">Hello world</string>
+    <string name="a">This</string>
+    <string name="b">Is</string>
+    <string name="c">My</string>
+    <string name="d">First</string>
+    <string name="e">Application</string>
+</resources>
